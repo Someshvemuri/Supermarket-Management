@@ -1,5 +1,7 @@
 # Supermarket-Management
 SuperMarket-Management-System for proper management of supermarket
+
+
 2nd Sem Data Structures project implemented using Tkinter, Data Structures in python, pyhton
 1.INTRODUCTION
 1.1 PURPOSE OF THIS DOCUMENT 
